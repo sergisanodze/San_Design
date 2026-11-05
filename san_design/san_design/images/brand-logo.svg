@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <rect width="600" height="600" fill="#0c1829"/>
+  <rect x="28" y="28" width="544" height="544" rx="2" stroke="#d3b58a" stroke-opacity=".3"/>
+  <rect x="220" y="152" width="160" height="160" rx="40" stroke="#d3b58a"/>
+  <g transform="translate(220 152) scale(2.5)" stroke="#e4cba6" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M31 19H23a7 7 0 0 0 0 14h3a6 6 0 0 1 0 12H16"/>
+    <path d="M35 19v26h5c16 0 16-26 0-26h-5Z"/>
+  </g>
+  <text x="300" y="382" text-anchor="middle" fill="#f5f1e9" font-family="Georgia,serif" font-size="52" letter-spacing="2">San Design</text>
+  <path d="M270 414h60" stroke="#d3b58a"/>
+  <text x="300" y="454" text-anchor="middle" fill="#d3b58a" font-family="Arial,sans-serif" font-size="12" letter-spacing="5">FURNITURE STUDIO</text>
+</svg>
